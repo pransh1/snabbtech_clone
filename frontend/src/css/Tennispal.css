@@ -1,0 +1,116 @@
+.tennispal-main {
+  background: #144a73;
+  padding: 70px 0 40px; 
+}
+
+.tennispal-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  align-items: flex-start;  
+  justify-content: space-between;
+  gap: 80px;
+}
+
+
+.tennispal-content {
+  max-width: 560px;
+  color: #ffffff;
+  /* margin-top: -20px;  */
+}
+
+.tennispal-logo {
+  width: 180px;
+  margin-bottom: 24px;
+}
+
+.tennispal-description {
+  font-family: 'Nunito';
+    color: #ffffffcc;
+    font-size: 20px;
+    text-shadow: none;
+    line-height: 1.8;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: inherit;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    font-weight: 400;
+    margin: 18px 0 42px;
+}
+
+.tennispal-store {
+  display: flex;
+  align-items: center;
+  gap: 28px;
+  margin-bottom: 24px;
+}
+
+
+.tennispal-store img {
+  width: 44px;
+}
+
+.tennispal-store span {
+  font-size: 22px;
+  color: #ffffff;
+}
+
+
+.tennispal-stats {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  margin-bottom: 26px;
+}
+
+.tennispal-stats div {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.tennispal-stats strong {
+  font-size: 32px;
+  font-weight: 600;
+  margin-top: 35px;
+  color: #ffffff;
+}
+
+.tennispal-stats span {
+  font-size: 32px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.dividing-line {
+  width: 1px;
+  height: 100px;
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-right: 20px;
+  background: #ffffff;
+}
+
+
+.tennispal-btn {
+  background: #7cb342;
+  color: #ffffff;
+  border: none;
+  padding: 14px 28px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.tennispal-image img {
+  max-width: 600px;
+  width: 100%;
+}
+
+.tennispal-image {
+  margin-top: -10px;
+}

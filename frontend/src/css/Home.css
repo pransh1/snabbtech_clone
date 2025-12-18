@@ -1,0 +1,75 @@
+.bgimg-overlay-container {
+  width: 100%;
+  min-height: 100vh;
+  background-image: url("https://snabbtech.com/wp-content/uploads/2024/05/7c56d57b50521c4f5e13a17556b23179.homeBanner.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: flex-start;
+  padding-top: 140px;
+}
+
+.section-container {
+  max-width: 1400px;
+  margin: auto;
+  margin-left: 140px;
+  margin-top:130px ;
+  padding: 0 24px;
+}
+
+.section-content {
+  max-width: 680px;
+}
+
+.section-content h1 {
+  font-size: 50px;
+  line-height: 1.2;
+  font-weight: 800;
+  color: #134872;
+  margin-bottom: 28px;
+}
+
+.section-content h1 span {
+  color: #29C553;
+  margin-left: 10px;
+}
+
+.section-content p {
+  font-size: 24px;
+  line-height: 1.7;
+  color: #4D4E50;
+  margin-bottom: 40px;
+}
+
+.section-btn {
+  background: #7cb342;
+  color: #fff;
+  border: none;
+  height: 45px;
+  padding: 0 28px;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.section-btn:hover {
+  background: #689f38;
+}
+
+.iphone-container {
+  width:45%;
+  display: flex;
+  justify-content:flex-start;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+
+.iphone-container img {
+  width: 200px;
+  height: auto;
+  margin-top: 230px;
+  margin-left: 40px;
+}
